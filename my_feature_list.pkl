@@ -1,0 +1,16 @@
+(lp0
+S'poi'
+p1
+aS'bonus'
+p2
+aS'total_payments'
+p3
+aS'total_stock_value'
+p4
+aS'fraction_to_poi'
+p5
+aS'fraction_from_poi'
+p6
+aS'fraction_shared_with_poi'
+p7
+a.
